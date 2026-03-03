@@ -1,10 +1,11 @@
 {
-  "versao_mais_recente": "6.6",
-  "url_download": "https://github.com/pedroovidiobill/tecmobill-distrib-moden/releases/download/v6.6/TecMobill_System.exe",
+  "versao_mais_recente": "7.7",
+  "url_download": "https://github.com/pedroovidiobill/tecmobill-distrib-moden/releases/download/v7.7/TecMobill_System.exe",
                    
-  "mensagem": "modo seguranca com hash e compilacao."
+  "mensagem": "versao com intelbras."
 
 }
+
 
 
 
